@@ -38,14 +38,7 @@ OR
 
 ### Frame
 The Frame is made of easy to source aluminum extrusion. I highly reccommend purchasing the frame parts pre-cut and pre-drilled. The extra cost is negligible and it will save you a lot of time and frustration. 
-| Quantity | Item/Link| Price| Notes |
-|:---:|:---:|:---:|:---:|
-| x| [Extrusion](#) | $100 |  |
-| x| [Extrusion](#) | $100 |  |
-| x| [Extrusion](#) | $100 |  |
-| x| [Extrusion](#) | $100 |  |
-| x| [Extrusion](#) | $100 |  |
-| x| [Extrusion](#) | $100 |  |
+Parts list Coming soon...
 
 ### Ancillary Parts
 | Quantity | Item/Link| Price| Notes |
@@ -63,20 +56,12 @@ The Frame is made of easy to source aluminum extrusion. I highly reccommend purc
 
 ### 3D Printed Parts
 You can print these yourself using the files in this repository or you can purchase them pre-printed from the links below.
-| Quantity | Item/Link| Price| Notes |
-|:---:|:---:|:---:|:---:|
-| 1 | [Mast Holder Guide](#) | $10 |  |
-| 1 | [Mast Holder Bottom](#) | $10 |  |
-| 1 | [Hand Remote Shell](#) | $10 |  |
-| 1 | [Transmitter](#) | $10 |  |
+Parts list coming soon...
 
 
 
 ### Manufactured Parts
-| Quantity | Item/Link| Price| Notes |
-|:---:|:---:|:---:|:---:|
-| x | [Drum Flange](#) | $100 |  |
-|**Total**| | **$200**| |
+Parts list coming soon...
 
 
 | **Grand Total** | **$2500.00** | 

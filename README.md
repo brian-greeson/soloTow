@@ -33,7 +33,7 @@ An average weight pilot will need a 3KW motor minimum. For example: I'm an 80kg 
 | 1 | [Motor Controller](https://kellycontroller.com/shop/kls-n/) | $229 | Select the KLS7230ND | 
 | **Total** | | **$708.00** | |
 ### Battery
-Be cautious with purchasing from vendors other than the ones listed here. Battery scams are rampant on aliExpress. I have purchased several batteries from this vendor and RMA'd a bad pack. The customer service was slow but good. After shipping the defective pack back I received a new pack within a week. If you want more tows per charge you can opt for a pack with a higher amp hour (Ah) rating. Or purchase multiple packs.
+Be cautious with purchasing from vendors other than the ones listed here. Battery scams are rampant on aliExpress. I have purchased several batteries from this vendor and RMA'd a bad pack. The customer service was slow but good. If you want more tows per charge you can opt for a pack with a higher amp hour (Ah) rating. Or purchase multiple packs.
 | Quantity | Item/Link| Price| Notes |
 |:---:|:---:|:---:|:---:|
 | 2 | [Battery](https://tinyurl.com/46wfumn2) | $452.80 | 60V 25Ah option |
@@ -46,10 +46,13 @@ The Frame is made of easy to source aluminum extrusion. I highly recommend purch
 Parts list Coming soon...
 
 ### Remote and Winch Controler
-| 2 | [Lora Board](https://heltec.org/project/wifi-lora-32-v3/) | $17.9 | |
+| Quantity | Item/Link| Price| Notes |
+|:---:|:---:|:---:|:---:|
+| 2 | [Lora Board](https://heltec.org/project/wifi-lora-32-v3/) | $17.90 | |
 | 1 | [Potentiometer](https://a.co/d/56w9rYE) | $39.37 | |
 | 1 | [Micro Switches](https://a.co/d/2vwkWf8) | $9.99| |
 | 1 | [Latching Buttons](https://a.co/d/3Erq4vm) | $11.99 | |
+| **Total**||**$97.15**|
 
 
 
@@ -66,7 +69,7 @@ Parts list Coming soon...
 | 1 | [Winch Controller Box](https://a.co/d/iAHD5yw) | $14.98 | |
 | 1 | [Winch Controller Battery](https://a.co/d/eulVu19) | $17.95 | |
 | 1 | [Ground Anchors](https://a.co/d/alXvBq3) | $37.98 | |
-|**Total**| | **$**| |
+|**Total**| | **$901.79**| |
 
 ### 3D Printed Parts
 You can print these yourself using the files in this repository or you can purchase them pre-printed from the links below.

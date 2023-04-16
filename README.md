@@ -62,7 +62,7 @@ Parts list Coming soon...
 | 1 | [Antenna Mast](https://a.co/d/f2BagqU) | $19.48 | You need Line of sight between the transmitter and receiver antenna. Ensure you get a mast tall enough to account for any obstructions at your tow area |
 | 1 | [Antennas](https://a.co/d/8XnRbzk) | $13.99 |  |
 |1| [Antenna Cable](https://a.co/d/dvxMuS1)| $15.99 | Get one a couple feet longer than your mast height |
-| 1 | [Town Line](https://tinyurl.com/2x9287e6) | $411.45 | https://kellycontroller.com/shop/kls-n/ |
+| 1 | [Tow Line](https://tinyurl.com/2x9287e6) | $411.45 |  |
 | 1 | [Drogue](https://towmeup.com/shop/ols/products/round-drogue-parachute) | $289.00 | One of the more expensive options. Let me know if you find a cheaper source |
 |1 | [Fairlead](https://a.co/d/cL6a3BA) | $20.99| |
 | 2 | [Wheels](https://a.co/d/hkvo3uy)| $29.99 ||

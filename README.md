@@ -5,7 +5,7 @@ An easy to assemble and inexpensive DIY winch for self towing paragliders.
 <img src="https://github.com/brian-greeson/soloTow/raw/main/guide/IMG_1869.jpeg"  width="400" />
 
 ### Obligatory Warning
-*Paragliding is dangerous. Towing is dangerous. Even when used in accordance with this guide serious injury or death can occur when paragliding. This winch is not designed to be used by inexperienced pilots. No warranty is expressed or implied. Use at your own risk. Please seek professional instruction.*
+*Paragliding is dangerous. Towing is dangerous. Even when used in accordance with this guide; serious injury or death can occur when paragliding. This winch is not designed to be used by inexperienced pilots. No warranty is expressed or implied. Use at your own risk. Please seek professional instruction.*
 ## Introduction
 Do you live in the flatlands? Tired of driving for hours to the nearest tow site, finding an extra vehicle and operator, or spending 5-10 thousand on a pay out winch? The SoloTow is the answer to all your paragliding woes. Every flight with the so This is a simple DIY winch for self towing paragliders. Cheap and portable enough for everyone to build and transport to the nearest suitable field. Construction materials are readily available. Assembly requires no special fabrication skills or tools. Currently some electronic knowledge and skills are required. If there is enough interest from the community I could make some partially assembled kits available that would remove the need for soldering and programming.
 ## Setting Expectations

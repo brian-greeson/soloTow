@@ -10,7 +10,7 @@ An easy to assemble and inexpensive DIY winch for self towing paragliders.
 Do you live in the flatlands? Tired of driving for hours to the nearest tow site, finding an extra vehicle and operator, or spending 5-10 thousand on a pay out winch? The SoloTow is the answer to all your paragliding woes. Every flight with the so This is a simple DIY winch for self towing paragliders. Cheap and portable enough for everyone to build and transport to the nearest suitable field. Construction materials are readily available. Assembly requires no special fabrication skills or tools. Currently some electronic knowledge and skills are required. If there is enough interest from the community I could make some partially assembled kits available that would remove the need for soldering and programming.
 ## Setting Expectations
 What this design is:
-- Designed to get an average solo paraglider pilot in the air, high enough to grab a nearby thermal for cross country flying. Expect 200m of altitude in lighter winds, 300m in optimal conditions. Able to be easily transported and setup in most places. 
+- Designed to get an average solo paraglider pilot in the air, high enough to grab a nearby thermal for cross country flying. Expect 250m of altitude in lighter winds, 300-350m in optimal conditions. Able to be easily transported and setup in most places. 
 
 What this design isn't:
 - This is not designed for club or commercial use, i.e. back to back towing all day long with no breaks for system to cool down. Nor to get you mega boosted, 1500m+ into the air. You are welcome to make modification to the design to have it suit your particular needs.

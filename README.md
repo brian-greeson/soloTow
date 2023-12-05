@@ -1,6 +1,6 @@
 
 # SoloTow
-An easy to assemble and inexpensive DIY winch for self towing paragliders.
+An easy to assemble and inexpensive DIY winch for self towing paragliders. This project is still a work in progress.
 
 <img src="https://github.com/brian-greeson/soloTow/raw/main/guide/IMG_1869.jpeg"  width="400" />
 
